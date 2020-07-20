@@ -1,10 +1,10 @@
-title: Simply Jekyll
-name: John Doe
-user_description: Programmer (Interested in Philosophy and Math)
-notes_url: "https://simply-jekyll.netlify.app"
+title: Bread Tech Blog
+name: Bread Lee
+user_description: Programmer
+notes_url: "http://sites.google.com/view/jongho77"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
-copyright_name: John Doe
+copyright_name: Bread Lee
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sprinter707.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
