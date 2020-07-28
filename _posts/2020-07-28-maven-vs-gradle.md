@@ -1,6 +1,6 @@
 ---
 title: Maven vs Gradle
-tags: markdown 
+tags: markdown, maven, gradle
 comments: true
 ---
 
